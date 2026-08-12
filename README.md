@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="banner.png" width="100%"/>
+
 # `lleolell`
 
 ### hi, i'm le! ♡ <:)
